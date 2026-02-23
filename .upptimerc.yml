@@ -1,0 +1,27 @@
+owner: mskz-ptplus-jp
+repo: pauth.me-upptime
+userAgent: pauth.me-upptime
+sites:
+  - name: pauth.me ウェブサイト
+    url: https://pauth.me
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: pauth.me API
+    url: https://pauth.me/api/v1/
+    expectedStatusCodes:
+      - 200
+status-website:
+  cname: status.pauth.me
+  name: pauth.me ステータス
+  description: pauth.me サービスの稼働状況
+  theme: light
+  introTitle: pauth.me サービス状況
+  introMessage: |
+    pauth.me の各サービスのリアルタイム稼働状況をご確認いただけます。
+  navbar:
+    - title: ホーム
+      href: https://pauth.me
+    - title: ドキュメント
+      href: https://pauth.me/docs
