@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.25%",
+    "uptimeDay": "1.25%",
+    "uptimeWeek": "1.25%",
+    "uptimeMonth": "1.25%",
+    "uptimeYear": "1.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-23": 48
+    }
   },
   {
     "name": "pauth.me API",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.31%",
+    "uptimeDay": "2.31%",
+    "uptimeWeek": "2.31%",
+    "uptimeMonth": "2.31%",
+    "uptimeYear": "2.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-23": 47
+    }
   },
   {
     "name": "demo.pauth.me",
@@ -41,16 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.pauth.me.ico",
     "slug": "demo-pauth-me",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "3.44%",
+    "uptimeDay": "3.44%",
+    "uptimeWeek": "3.44%",
+    "uptimeMonth": "3.44%",
+    "uptimeYear": "3.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-23": 47
+    }
   }
 ]
